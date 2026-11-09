@@ -6,9 +6,6 @@
 
 <img src="https://streak-stats.demolab.com?user=NaneveDiego&theme=tokyonight&locale=pt_BR&hide_border=true&background=00000000" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaneveDiego/NaneveDiego/output/github-snake-dark.svg" />
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/NaneveDiego/NaneveDiego/output/github-snake.svg" />
-</picture>
+
 
 </div>
